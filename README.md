@@ -30,7 +30,9 @@ To install the e-commerce back-end application, you must have Node.js and MySQL 
 
 To use the e-commerce back-end application, you must first start the server. To do this, navigate to the root directory of the project in a terminal window and run npm start.
 
-Once the server is running, you can use the following endpoints to interact with the API (Use Insomnia to make HTTP requests to these endpoints) :
+Once the server is running, you can use the following endpoints to interact with the API (Use Insomnia to make HTTP requests to these endpoints):
+
+* Note: :id is the id number you want to put in.
 
 * GET /api/products
 * GET /api/products/:id
