@@ -50,7 +50,7 @@ Once the server is running, you can use the following endpoints to interact with
 * PUT /api/tags/:id
 * DELETE /api/tags/:id
 
-* VIDEO DEMO: [Click Here](#[https://drive.google.com/file/d/1PnwYOKRETE8b5EZlG4vHdXTIjPIKDloA/view])
+* VIDEO DEMO: [Click Here](#https://drive.google.com/file/d/1PnwYOKRETE8b5EZlG4vHdXTIjPIKDloA/view)
 ## Contributing
 N/A
 
